@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  2 11:24:50 2019
 
-@author: akash
-"""
 
 from sklearn.model_selection import GridSearchCV,train_test_split
 from sklearn.svm import SVC
