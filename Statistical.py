@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  2 11:24:45 2019
-
-@author: akash
-"""
 import os
 import numpy as np
 import pywt
